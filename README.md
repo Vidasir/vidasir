@@ -1,14 +1,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://t.me/vidasir">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://www.linkedin.com/in/vadim-snigir-216413260">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk.com/id347895093">
-    <img src="https://img.shields.io/badge/Vkontakte-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/ВКОНТАКТЕ-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/vadim-snigir-216413260">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/vidasir">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://www.codewars.com/users/Gothered">
+    <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" alt="Codewars Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-vidasir&style=flat-square&color=blue" alt=""/>
